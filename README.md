@@ -1,2 +1,2 @@
-# deep_learning_p2
-Project 2 - ConvNets
+# Project 2 - ConvNets
+Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
